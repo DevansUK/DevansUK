@@ -6,7 +6,7 @@
 name: Devans_UK
 
 # Short bio or description (displayed in the header)
-description: i dont know, give me a controller and i'll be happy
+description: I dont know, give me a controller and a bed and i'll be happy
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://www.google.co.uk/search?q=banta&rlz=1CASMAC_enGB684GB696&espv=2&biw=1680&bih=937&tbm=isch&imgil=SXBRgdmavsZ-rM%253A%253BusUIBLFtyzvJlM%253Bhttps%25253A%25252F%25252Ftwitter.com%25252Fcanofbanta&source=iu&pf=m&fir=SXBRgdmavsZ-rM%253A%252CusUIBLFtyzvJlM%252C_&usg=__nJsk_sib6EqkcG7Mj-0BwGVZ2lU%3D&ved=0ahUKEwjlxpaqprbNAhWrDsAKHWX-BDwQyjcINg&ei=Y7hnV6WJBKudgAbl_JPgAw#imgrc=SXBRgdmavsZ-rM%3A
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github:
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/

@@ -2,7 +2,7 @@
 title:  I.T Lesson Week 20
 layout: post
 author: daniel.evans
-permalink: /-i.t-lesson-week-20/
+permalink: /it-lesson-week-20/
 source-id: 1fzJGbRjl1hSGi75426Nfeqs8GxU__zJMH6asFxZGTeU
 published: true
 ---

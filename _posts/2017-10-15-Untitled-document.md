@@ -6,7 +6,7 @@ permalink: /untitled-document/
 source-id: 1iVVlEhjb8p92HE_q_PhPhJokNXuXLbujDESBXEn9P_M
 published: true
 ---
-**Blog Two of Year 9**
+**Blog Three of Year 9**
 
 In today's session we reviewed and created sheets for different costs and finances for our business. 
 

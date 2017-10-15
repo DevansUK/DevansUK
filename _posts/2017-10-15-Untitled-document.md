@@ -18,3 +18,6 @@ I used collaberation again to do this and I also helped my partner. This was ver
 
 A habbit I will abandon is overcomplecating it. In IT you have to thing logicly and solve the problem step-by-step, however I have over thought it and tried to do everything at once in nthe past.
 
+<br>
+<br>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSrydWcXVmWUZwl6BalyVYRcdVYfAaRXVFlFXFICDTePMV7VJQlHMRK3XH-1hSWlY4G2pxo5RSVNPkM/pubhtml?widget=true&amp;headers=false"></iframe>

@@ -20,3 +20,6 @@ This lesson I used collaboration to succeed (in learning). This is what I did in
 
 Next time I will plan out my business to make profit rather than heading straight in and not thinking how it will turn out. 
 
+<br>
+<br>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSrydWcXVmWUZwl6BalyVYRcdVYfAaRXVFlFXFICDTePMV7VJQlHMRK3XH-1hSWlY4G2pxo5RSVNPkM/pubhtml?widget=true&amp;headers=false"></iframe>
